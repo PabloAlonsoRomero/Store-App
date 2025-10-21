@@ -19,4 +19,8 @@ export class ShopService {
     return result;
   }
 
+  getStoreById(id: number) {
+    
+  }
+
 }
